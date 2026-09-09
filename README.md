@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-85-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-86-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (26)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (27)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -69,7 +69,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 ### Multi-Language
 
 <details>
-<summary><b>26 tools</b> — click to expand</summary>
+<summary><b>27 tools</b> — click to expand</summary>
 
 | Tool | What it does |
 |------|--------------|
@@ -81,6 +81,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI engine for smart-contract audits |
 | [digger-determsec/digger](https://github.com/digger-determsec/digger) | Evidence-gated multi-language smart-contract analyzer |
 | [forefy/.context](https://github.com/forefy/.context) | Security audit skills bundle |
+| [Gabson0x/bountyforge](https://github.com/Gabson0x/bountyforge) | Parallel bug-bounty agents for EVM, Move, Solana, TRON |
 | [gdroz3r/drozer-lite](https://github.com/gdroz3r/drozer-lite) | Smart-contract vulnerability scanner |
 | [hackenproof-public/skills](https://github.com/hackenproof-public/skills) | Bug-bounty triage skills |
 | [han-sec/trident-fuzz-skill](https://github.com/han-sec/trident-fuzz-skill) | Fuzzing skill (Trident) |
