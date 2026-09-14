@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-86-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-87-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (27)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (27)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -39,6 +39,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [kadenzipfel/scv-scan](https://github.com/kadenzipfel/scv-scan) | Scans for common contract vulnerabilities |
 | [Kann AI](https://github.com/Kann-Audits/model-alpha) | Web3 Security Model for Solidity Auditing |
 | [melanke/defi-spec-driven](https://github.com/melanke/defi-builder-skills/tree/main/plugins/defi-spec-driven) | DeFi protocol design with threat-modeling |
+| [monad-developers/ultrafuzz](https://github.com/monad-developers/ultrafuzz) | Agentic Solidity fuzzing and threat-hunting orchestrator with local dashboard and report |
 | [quillai-network/qs_skills](https://github.com/quillai-network/qs_skills) | QuillAI security audit skills |
 | [TarasBrilian/gebug-audit](https://github.com/TarasBrilian/gebug-audit) | EVM audit workflow for Claude Code with AI-driven findings and Foundry PoC validation |
 | [zerocoolailabs/ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) | Vulnerability detector skill |
