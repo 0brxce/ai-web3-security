@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-87-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-88-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (27)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (28)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -70,7 +70,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 ### Multi-Language
 
 <details>
-<summary><b>27 tools</b> — click to expand</summary>
+<summary><b>28 tools</b> — click to expand</summary>
 
 | Tool | What it does |
 |------|--------------|
@@ -87,6 +87,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [hackenproof-public/skills](https://github.com/hackenproof-public/skills) | Bug-bounty triage skills |
 | [han-sec/trident-fuzz-skill](https://github.com/han-sec/trident-fuzz-skill) | Fuzzing skill (Trident) |
 | [heavyw8t/The-Judge](https://github.com/heavyw8t/The-Judge/tree/710e06a0cee1f43fc551952acce59e3c90fa2141/skill/judge) | Judges and scores audit findings |
+| [itsdarktoday/auditcode](https://github.com/itsdarktoday/auditcode) | Autonomous multi-agent audit harness with static tools and Foundry PoCs |
 | [J4X-Security/K.I.T](https://github.com/J4X-Security/K.I.T) | Reports already-known findings |
 | [JoranHonig/grimoire](https://github.com/JoranHonig/grimoire) | Co-auditor skill that pairs with you |
 | [konstantinvelev/AI](https://github.com/konstantinvelev/AI) | Collection of Claude Code security skills |
