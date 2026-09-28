@@ -9,13 +9,13 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-88-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-89-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
 **Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (28)](#multi-language)
 
-**Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Multi-Language (25)](#multi-language-1)
+**Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (25)](#multi-language-1)
 
 ---
 
@@ -126,6 +126,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 
 | Tool | What it does |
 |------|--------------|
+| [HackHack](https://hackhack.ai/) | Autonomous Solana security reviews with runnable proof-of-concept exploits |
 | [TNT House Risk-Data API](https://www.tnt-audit.com/risk-api) | Solana token risk scoring & on-chain insider-cluster detection API for AI trading agents |
 
 ### Multi-Language
