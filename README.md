@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-90-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-91-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (28)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -71,7 +71,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 ### Multi-Language
 
 <details>
-<summary><b>28 tools</b> — click to expand</summary>
+<summary><b>29 tools</b> — click to expand</summary>
 
 | Tool | What it does |
 |------|--------------|
@@ -80,6 +80,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [33Audits/cca-audit-agent](https://github.com/33Audits/cca-audit-agent) | Uniswap CCA audit agent |
 | [adshao/flounder](https://github.com/adshao/flounder) | Security automation for target prep, audit, exploit construction, and execution proof |
 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | Agent framework with sc-audit (invariant-first Solidity audits, fuzz proofs) and vuln-scanner |
+| [bountyoperator/bounty-operator](https://github.com/bountyoperator/bounty-operator) | Pre-submission skills: check a draft bounty report against the code it cites, on your own model |
 | [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI engine for smart-contract audits |
 | [digger-determsec/digger](https://github.com/digger-determsec/digger) | Evidence-gated multi-language smart-contract analyzer |
 | [forefy/.context](https://github.com/forefy/.context) | Security audit skills bundle |
