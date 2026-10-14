@@ -80,7 +80,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [33Audits/cca-audit-agent](https://github.com/33Audits/cca-audit-agent) | Uniswap CCA audit agent |
 | [adshao/flounder](https://github.com/adshao/flounder) | Security automation for target prep, audit, exploit construction, and execution proof |
 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | Agent framework with sc-audit (invariant-first Solidity audits, fuzz proofs) and vuln-scanner |
-| [bountyoperator/bounty-operator](https://github.com/bountyoperator/bounty-operator) | Pre-submission skills: check a draft bounty report against the code it cites, on your own model |
+| [bountyoperator/bounty-operator](https://github.com/bountyoperator/bounty-operator) | Pre-submission review skills and MCP server for bounty reports |
 | [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI engine for smart-contract audits |
 | [digger-determsec/digger](https://github.com/digger-determsec/digger) | Evidence-gated multi-language smart-contract analyzer |
 | [forefy/.context](https://github.com/forefy/.context) | Security audit skills bundle |
