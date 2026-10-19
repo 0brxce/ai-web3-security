@@ -50,7 +50,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 |------|--------------|
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Secure Rust/Solana development guardrails |
 | [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI auditor embedded in a node repo |
-| [TodorBonchev/rust-auditor](https://github.com/TodorBonchev/rust-auditor) | Multi-agent audit skill for Solana programs (Anchor, native, Pinocchio) with optional PoC verification |
+| [TodorBonchev/rust-auditor](https://github.com/TodorBonchev/rust-auditor) | Multi-agent audit skill for Solana programs (Anchor, native, Pinocchio) |
 | [zzzuhaibmohd/solana-token-extensions-security](https://github.com/zzzuhaibmohd/solana-token-extensions-security) | Audits Solana Token-2022 extensions |
 
 ### Move/Sui
