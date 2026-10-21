@@ -48,8 +48,8 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 
 | Tool | What it does |
 |------|--------------|
-| [rafael-abuawad/fyzz](https://github.com/rafael-abuawad/skills/tree/main/fyzz) | Generates stateful Vyper fuzz suites with Python Hypothesis for Titanoboa, Moccasin or ApeWorX |
-| [rafael-abuawad/vyper-auditor](https://github.com/rafael-abuawad/skills/tree/main/vyper-auditor) | Vyper audit skill with 12 attack specialties, findings memory and one combined report |
+| [rafael-abuawad/fyzz](https://github.com/rafael-abuawad/skills/tree/main/fyzz) | Generates stateful Vyper fuzz suites with Hypothesis |
+| [rafael-abuawad/vyper-auditor](https://github.com/rafael-abuawad/skills/tree/main/vyper-auditor) | Full multi-pass Vyper audit skill |
 
 ### Rust / Solana
 
