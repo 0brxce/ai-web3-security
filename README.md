@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-92-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-94-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (4)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Vyper (2)](#vyper) · [Rust / Solana (4)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -43,6 +43,13 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [quillai-network/qs_skills](https://github.com/quillai-network/qs_skills) | QuillAI security audit skills |
 | [TarasBrilian/gebug-audit](https://github.com/TarasBrilian/gebug-audit) | EVM audit workflow for Claude Code with AI-driven findings and Foundry PoC validation |
 | [zerocoolailabs/ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) | Vulnerability detector skill |
+
+### Vyper
+
+| Tool | What it does |
+|------|--------------|
+| [rafael-abuawad/fyzz](https://github.com/rafael-abuawad/skills/tree/main/fyzz) | Generates stateful Vyper fuzz suites with Hypothesis |
+| [rafael-abuawad/vyper-auditor](https://github.com/rafael-abuawad/skills/tree/main/vyper-auditor) | Full multi-pass Vyper audit skill |
 
 ### Rust / Solana
 
